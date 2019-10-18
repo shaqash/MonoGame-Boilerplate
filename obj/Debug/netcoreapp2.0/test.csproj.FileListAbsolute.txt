@@ -1,0 +1,10 @@
+/home/shaqash/Documents/partygame/test/bin/Debug/netcoreapp2.0/test.deps.json
+/home/shaqash/Documents/partygame/test/bin/Debug/netcoreapp2.0/test.runtimeconfig.json
+/home/shaqash/Documents/partygame/test/bin/Debug/netcoreapp2.0/test.runtimeconfig.dev.json
+/home/shaqash/Documents/partygame/test/bin/Debug/netcoreapp2.0/test.dll
+/home/shaqash/Documents/partygame/test/bin/Debug/netcoreapp2.0/test.pdb
+/home/shaqash/Documents/partygame/test/obj/Debug/netcoreapp2.0/test.csprojAssemblyReference.cache
+/home/shaqash/Documents/partygame/test/obj/Debug/netcoreapp2.0/test.AssemblyInfoInputs.cache
+/home/shaqash/Documents/partygame/test/obj/Debug/netcoreapp2.0/test.AssemblyInfo.cs
+/home/shaqash/Documents/partygame/test/obj/Debug/netcoreapp2.0/test.dll
+/home/shaqash/Documents/partygame/test/obj/Debug/netcoreapp2.0/test.pdb
